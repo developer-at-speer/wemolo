@@ -30,7 +30,7 @@ To get started with Wemolo, ensure you have Flutter installed on your machine. F
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourgithub/wemolo.git
+   git clone https://github.com/developer-at-speer/wemolo.git
 2. Navigate to the project directory:
    ```bash
    cd wemolo
